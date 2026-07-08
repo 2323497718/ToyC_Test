@@ -1,3 +1,0 @@
-C:/Users/23234/Desktop/ToyC/build/CMakeFiles/toyc.dir
-C:/Users/23234/Desktop/ToyC/build/CMakeFiles/edit_cache.dir
-C:/Users/23234/Desktop/ToyC/build/CMakeFiles/rebuild_cache.dir
