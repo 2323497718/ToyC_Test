@@ -1,0 +1,5 @@
+*.DS_Store
+/build
+lexer.yy.h
+tools/__pycache__/
+github/sysy-testsuit-collection/
